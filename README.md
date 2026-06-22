@@ -23,19 +23,8 @@ Retrieval-Augmented Generation (RAG), and enables automated recovery actions.
     <li>Docker</li>
     <li>Supabase</li>
     <li>Pinecone</li>
-    <li>Google Gemini API Key</li>
-</ul>
-
-<h3>Tech Stack</h3>
-<ul>
-    <li>Python</li>
-    <li>Apache Airflow</li>
-    <li>Supabase </li>
-    <li>Pinecone</li>
-    <li>Google Gemini</li>
+    <li>Google Gemini API </li>
     <li>Retrieval-Augmented Generation (RAG)</li>
-    <li>Pandas</li>
-    <li>Docker</li>
     <li>GitHub</li>
 </ul>
 
