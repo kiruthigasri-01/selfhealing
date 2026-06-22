@@ -19,6 +19,7 @@ Retrieval-Augmented Generation (RAG), and enables automated recovery actions.
 <ul>
     <li>Python 3.10+</li>
     <li>Apache Airflow</li>
+    <li> Astronomer</li>
     <li>Docker</li>
     <li>Supabase</li>
     <li>Pinecone</li>
