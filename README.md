@@ -30,7 +30,7 @@ Retrieval-Augmented Generation (RAG), and enables automated recovery actions.
 <ul>
     <li>Python</li>
     <li>Apache Airflow</li>
-    <li>Supabase (PostgreSQL)</li>
+    <li>Supabase </li>
     <li>Pinecone</li>
     <li>Google Gemini</li>
     <li>Retrieval-Augmented Generation (RAG)</li>
